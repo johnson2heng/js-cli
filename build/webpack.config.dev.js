@@ -42,7 +42,7 @@ module.exports = {
         },
         inline: true,//实时刷新
         open: true,
-        host: "192.168.0.232"
+        //host: "192.168.0.232"
     },
 
     module: {
