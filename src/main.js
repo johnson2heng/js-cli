@@ -14,3 +14,11 @@ console.log(pic);
 const c = a?.b?.c;
 
 console.log(c);
+
+class Test{
+    speak(){
+        console.log('speak');
+    }
+}
+
+new Test().speak();
